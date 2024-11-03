@@ -1,0 +1,55 @@
+.emoji-face {
+  width: 100px;
+  height: 100px;
+  margin: 32px;
+  border-radius: 50px;
+}
+
+.mouth-round {
+  width: 16px;
+  height: 16px;
+  /* padding: 16px; */
+  margin: 32px;
+  border-radius: 50px;
+  background-color: #8e5f10;
+}
+
+.left {
+  width: 10px;
+  height: 14px;
+  /* padding: 16px; */
+  margin: 32px;
+  border-radius: 50px;
+  background-color: #8e5f10;
+}
+
+.right {
+  width: 10px;
+  height: 14px;
+  /* padding: 16px; */
+  margin: 32px;
+  border-radius: 50px;
+  background-color: #8e5f10;
+}
+
+.mouth-flat {
+  width: 32px;
+  height: 4px;
+  margin: 32px;
+  background-color: #8e5f10;
+  border-radius: 25px;
+}
+
+.mouth-amazed {
+  width: 32px;
+  height: 16px;
+  background-color: #8e5f10;
+  margin: 32px;
+  border-radius: 15px;
+}
+
+.mouth-worried {
+  width: 32px;
+  height: 16px;
+  border-radius: 8px 8px 50% 50%;
+}
